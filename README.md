@@ -3,6 +3,8 @@ Coven Labs is teaching 10,000 youths from marginalised communities to become Dat
 
 We offer high impact Data Science and Artificial Intelligence Education in Africa. Attend a highly competitive Data Science and AI Boot Camp and double your value as a developer while you build cool bots, API services, automation systems and have fun with our team building exercises.
 
+With Two pyhsical Labs in Akure and Benin Nigeria, and Eight (8) more opening in Lagos (2), Kigali (1), Kenya (1), Ivory coast(1), Accra (1), Dar e'Salam (1) and Johannesburg (1) by the end of 2018.
+
 Applications are now open. Selection is on rolling basis.
 
 # Structure
